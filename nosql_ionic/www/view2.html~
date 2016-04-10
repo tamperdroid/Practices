@@ -1,0 +1,25 @@
+<html ng-app="app">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Ionic Data listout</title>
+    <script src="js/anguler.min.js"></script>
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">  
+  <script src="js/send_data.js"></script>
+</head>
+  <body ng-controller="appctrl">
+  <ion-content>
+  <div class="list list-inset">
+  <label class="item item-input">
+    <input type="text" placeholder="Tittle" ng-model="title">
+  </label>
+  <label class="item item-input">
+    <input type="text" placeholder="Description" ng-model="desc">
+  </label>
+	<a class="button button-block button-positive"  ng-href="index.html" ng-click="add(title,desc)">ADD</a>
+ </div>
+    </ion-content>
+  </body>
+</html>
