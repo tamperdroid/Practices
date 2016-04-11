@@ -1,0 +1,17 @@
+<?php
+   // connect to mongodb
+   $connection = new MongoClient();
+   echo $connection;
+  
+   // select a database
+   $db = $connection->student;
+  
+  $col=$db->json_col;
+  
+  $cursor= $col->find();
+
+  foreach ($cursor as $document) {
+      	echo $document;
+   }
+
+?>

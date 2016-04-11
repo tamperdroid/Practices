@@ -1,0 +1,38 @@
+<html ng-app="ionicApp">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Ionic Data listout</title>
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">  
+  <script src="js/app.js"></script>
+</head>
+
+  <body ng-controller="MyCtrl"  ng-init="getvalues()">
+    
+    <ion-header-bar class="bar-positive" >
+      <h1 class="title">Accordion List</h1>
+    <a  class="button icon ion-plus-circled" ng-href="view2.html">
+    </a>
+    </ion-header-bar>
+    <ion-content>
+      <ion-list>
+        <div ng-repeat="group in groups">
+          <ion-item class="item-stable"  ng-click="toggleGroup(group)"  ng-class="{active: isGroupShown(group)}">
+              <i class="icon" ng-class="isGroupShown(group) ? 'ion-minus' : 'ion-plus'"></i>
+            &nbsp;
+            Group {{group.name}}
+          </ion-item>
+          <ion-item class="item-accordion"
+                    ng-repeat="item in group.items"
+                    ng-show="isGroupShown(group)">
+            {{item}}
+          </ion-item>
+        </div>
+      </ion-list>
+
+    </ion-content>
+      
+  </body>
+</html>

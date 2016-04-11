@@ -1,0 +1,21 @@
+<!DOCTYPE html>  
+<html >    
+<head>  
+<script SRC="js/angular.min.js">    
+</script>    
+    
+</head>    
+<body >  
+<fieldset>  
+<legend>AngularJS FromJSON Function</legend>  
+<script>  
+var strJSON='{"name":"Jimi","age":30,"address":"12-13/A10"}';
+document.write(angular.fromJson('{"a":1,"b":2,"c":3}'));  
+document.write("</br>");
+var data=angular.fromJson(strJSON);
+document.write(data['name'],data['age'],data['address']);  
+document.write("</br>");  
+</script>  
+</fieldset>  
+</body>    
+</html> 
