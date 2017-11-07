@@ -1,0 +1,14 @@
+2017-01-06 12:49:09_Scrapy_[Errno 2] No such file or directory line::195
+2017-01-06 13:17:27_Extract_No section: E-ems-load-forecast-none line no: 2351
+2017-01-06 13:17:28_Scrapy_No section: status line::196
+2017-01-06 13:18:23_Extract_No section: E-ems-load-forecast-none line no: 2351
+2017-01-06 13:18:24_Scrapy_No section: status line::196
+2017-01-06 14:06:20_Extract_No section: E-ems-load-forecast-nonepreivous1 line no: 2351
+2017-01-06 14:06:21_Scrapy_No section: status line::196
+2017-01-06 14:06:27_Extract_No section: E-ems-load-forecast-nonepreious1 line no: 2351
+2017-01-06 14:06:28_Scrapy_No section: status line::196
+2017-01-06 17:00:42_Transform-Module_local variable data referenced before assignment line::1409
+2017-01-06 17:35:43_Transform-Module_(EOFError(), 1420)
+2017-01-06 17:35:44_Transform-Module_NoneType object is not iterable line::4382
+2017-01-06 17:38:05_Extract_list index out of range line no: 1742
+2017-01-06 17:38:06_Extract_local variable raw_file referenced before assignment line no: 1258

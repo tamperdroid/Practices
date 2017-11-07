@@ -1,0 +1,2 @@
+1	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A79&biddingZone_Domain=10Y1001A1001A63L&periodStart=201512312300&periodEnd=201612312300
+2	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A79&biddingZone_Domain=10YDE-EON------1&periodStart=201512312300&periodEnd=201612312300

@@ -1,0 +1,21 @@
+acil
+ftp:///transparency_data/power/csv/ex_ante/available_capacity/{YYYY}
+ftp:///transparency_data/power/csv/ex_ante/available_capacity/{YYYY+1}
+
+nugl 
+ftp:///transparency_data/power/csv/ex_ante/non_usability_generation/{YYYY}
+ftp:///transparency_data/power/csv/ex_ante/non_usability_generation/{YYYY+1}
+ftp:///transparency_data/power/csv/ex_ante/non_usability_generation/{YYYY+2}
+ftp:///transparency_data/power/csv/ex_ante/non_usability_generation/{YYYY+3}
+ftp:///transparency_data/power/csv/ex_post/non_usability_generation/{YYYY}
+ 
+ pdgl 
+ ftp:///transparency_data/power/csv/ex_post/previous_day_generation/{YYYY}
+ 
+ plel
+ ftp:///transparency_data/power/csv/ex_ante/planned_energy/{YYYY}
+ ftp:///transparency_data/power/csv/ex_ante/planned_energy/{YYYY+1}
+ ftp:///transparency_data/power/csv/ex_ante/planned_energy/{YYYY+2}
+ ftp:///transparency_data/power/csv/ex_ante/planned_energy/{YYYY+3}
+ 
+ 

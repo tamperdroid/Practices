@@ -1,0 +1,13 @@
+1	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A76&biddingZone_Domain=10YDE-RWENET---I&periodStart=201512312300&periodEnd=201612312300
+2	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A76&biddingZone_Domain=10YBE----------2&periodStart=201512312300&periodEnd=201612312300
+3	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A76&biddingZone_Domain=10Y1001A1001A63L&periodStart=201512312300&periodEnd=201612312300
+4	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A76&biddingZone_Domain=10YFI-1--------U&periodStart=201512312300&periodEnd=201612312300
+5	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A76&biddingZone_Domain=10YGB----------A&periodStart=201512312300&periodEnd=201612312300
+6	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A76&biddingZone_Domain=10YNO-3--------J&periodStart=201512312300&periodEnd=201612312300
+7	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A76&biddingZone_Domain=10Y1001A1001A48H&periodStart=201512312300&periodEnd=201612312300
+8	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A76&biddingZone_Domain=10YNO-0--------C&periodStart=201512312300&periodEnd=201612312300
+9	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A76&biddingZone_Domain=10Y1001A1001A45N&periodStart=201512312300&periodEnd=201612312300
+10	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A76&biddingZone_Domain=10Y1001A1001A46L&periodStart=201512312300&periodEnd=201612312300
+11	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A76&biddingZone_Domain=10YSI-ELES-----O&periodStart=201512312300&periodEnd=201612312300
+12	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A76&biddingZone_Domain=10YES-REE------0&periodStart=201512312300&periodEnd=201612312300
+13	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A76&biddingZone_Domain=10YSE-1--------K&periodStart=201512312300&periodEnd=201612312300

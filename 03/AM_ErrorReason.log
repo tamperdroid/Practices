@@ -1,0 +1,43 @@
+2017-01-03 11:36:11_Extract_local variable zf referenced before assignment line no: 135
+2017-01-03 11:36:13_Extract_NoneType object is not subscriptable line no: 70
+2017-01-03 11:36:15_Extract_must be string, not None line no: 233
+2017-01-03 11:36:17_Scrapy_No option extractstatus in section: status line::196
+2017-01-03 11:38:43_Extract_local variable zf referenced before assignment line no: 136
+2017-01-03 11:38:46_Extract_NoneType object is not subscriptable line no: 70
+2017-01-03 11:38:48_Extract_must be string, not None line no: 235
+2017-01-03 11:38:49_Scrapy_No option extractstatus in section: status line::196
+2017-01-03 11:39:04_Extract_local variable zf referenced before assignment line no: 136
+2017-01-03 11:39:06_Extract_NoneType object is not subscriptable line no: 70
+2017-01-03 11:39:08_Extract_must be string, not None line no: 235
+2017-01-03 11:39:10_Scrapy_No option extractstatus in section: status line::196
+2017-01-03 11:40:39_Extract_NoneType object is not subscriptable line no: 70
+2017-01-03 11:40:41_Extract_must be string, not None line no: 235
+2017-01-03 11:40:42_Scrapy_No option extractstatus in section: status line::196
+2017-01-03 11:42:26_Extract_[Error 32] The process cannot access the file because it is being used by another process: mgp-transmission-limits.zip line no: 137
+2017-01-03 11:42:29_Extract_NoneType object is not subscriptable line no: 70
+2017-01-03 11:42:31_Extract_must be string, not None line no: 235
+2017-01-03 11:42:32_Scrapy_No option extractstatus in section: status line::196
+2017-01-03 11:42:56_Extract_NoneType object is not subscriptable line no: 70
+2017-01-03 11:42:58_Extract_must be string, not None line no: 235
+2017-01-03 11:42:59_Scrapy_No option extractstatus in section: status line::196
+2017-01-03 11:43:25_Extract_NoneType object is not subscriptable line no: 70
+2017-01-03 11:43:27_Extract_must be string, not None line no: 236
+2017-01-03 11:43:28_Scrapy_No option extractstatus in section: status line::196
+2017-01-03 12:27:54_Extract_list index out of range line no: 161
+2017-01-03 12:28:59_Extract_list index out of range line no: 161
+2017-01-03 12:29:14_Extract_list index out of range line no: 161
+2017-01-03 12:52:59_Scrapy_invalid syntax (D:/01_2017/03/Fundalytics_Custom_Extract_gme.py, line 145) line::189
+2017-01-03 15:53:28_Extract_local variable rawFileName referenced before assignment line no: 183
+2017-01-03 16:02:51_Extract_local variable rawFileName referenced before assignment line no: 204
+2017-01-03 16:03:30_Extract_local variable rawFileName referenced before assignment line no: 204
+2017-01-03 16:12:52_Extract_local variable E2 referenced before assignment line no: 212
+2017-01-03 16:25:26_Extract_local variable rawFileName referenced before assignment line no: 225
+2017-01-03 16:39:01_Extract_[Errno 13] Permission denied: D:/01_2017/03/temp/Gme_Mgp_Transmission_Limits_20170103_1638.xlsx line no: 179
+2017-01-03 16:39:53_Extract_[Errno 13] Permission denied: D:/01_2017/03/temp/Gme_Mgp_Transmission_Limits_20170103_1639.xlsx line no: 179
+2017-01-03 17:01:40_Extract_unsupported operand type(s) for &: str and str line no: 218
+2017-01-03 17:08:27_Extract_Excel worksheet name mgp-additional-demand-bid-offers must be <= 31 chars. line no: 246
+2017-01-03 17:34:41_Extract_Excel worksheet name mgp-additional-demand-bid-offers must be <= 31 chars. line no: 304
+2017-01-03 18:11:23_Extract_Excel worksheet name mgp-additional-demand-bid-offers must be <= 31 chars. line no: 403
+2017-01-03 19:20:48_Extract_[Errno 13] Permission denied: D:/01_2017/03/temp/Gme_Mgp_Transmission_Limits_20170103_1920.xlsx line no: 445
+2017-01-03 19:22:13_Extract_type object is not iterable line no: 445
+2017-01-03 19:46:23_Scrapy_invalid syntax (D:/01_2017/03/Fundalytics_Custom_Extract_gme.py, line 111) line::189

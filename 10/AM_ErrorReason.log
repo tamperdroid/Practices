@@ -1,0 +1,24 @@
+2017-01-10 15:39:32_Scrapy_[Errno 2] No such file or directory line::189
+2017-01-10 15:40:33_Extract_No option post_content in section: E-casc-market-coupling-price-none line no: 212
+2017-01-10 15:40:34_Scrapy_No section: status line::196
+2017-01-10 15:41:02_Extract_EOL while scanning string literal (<string>, line 1) line no: 155
+2017-01-10 15:41:04_Extract_NoneType object is not subscriptable line no: 70
+2017-01-10 15:41:29_Extract_EOL while scanning string literal (<string>, line 1) line no: 155
+2017-01-10 15:42:15_Extract_merge_file() takes exactly 6 arguments (1 given) line no: 181
+2017-01-10 15:46:26_Extract_can only concatenate list (not "str") to list line no: 182
+2017-01-10 15:47:44_Extract_[Error 2] The system cannot find the file specified: Daily1xlsx line no: 183
+2017-01-10 16:00:24_Extract_EOL while scanning string literal (<string>, line 1) line no: 156
+2017-01-10 17:01:47_Transform-Module_(ValueError("time data 2017/01/09 00:00:00 does not match format %Y-%m-%d %H:%M:%S",), 1984)
+2017-01-10 17:01:48_Transform-Module_NoneType object is not iterable line::4384
+2017-01-10 17:02:54_Transform-Module_(ValueError("time data 2017/01/09 00:00:00 does not match format %Y-%m-%d %H:%M:%S",), 1984)
+2017-01-10 17:02:55_Transform-Module_NoneType object is not iterable line::4384
+2017-01-10 17:03:31_Transform-Module_(ValueError("time data 2017/01/09 00:00:00 does not match format %Y-%m-%d %H:%M:%S",), 1984)
+2017-01-10 17:03:32_Transform-Module_NoneType object is not iterable line::4385
+2017-01-10 17:06:03_Transform-Module_(ValueError("time data 2017/01/09 00:00:00 does not match format %Y-%m-%d %H:%M:%S",), 1984)
+2017-01-10 17:06:04_Transform-Module_NoneType object is not iterable line::4384
+2017-01-10 17:07:04_Transform-Module_(ValueError("time data 2017/01/09 00:00:00 does not match format %Y-%m-%d %H:%M:%S",), 1984)
+2017-01-10 17:07:06_Transform-Module_NoneType object is not iterable line::4384
+2017-01-10 17:07:26_Transform-Module_(ValueError("time data 2017/01/09 00:00:00 does not match format %Y-%m-%d %H:%M:%S",), 1984)
+2017-01-10 17:07:27_Transform-Module_NoneType object is not iterable line::4384
+2017-01-10 17:12:45_Transform-Module_(ValueError("time data 2017/01/09 00:00:00 does not match format %Y-%m-%d %H:%M:%S",), 1984)
+2017-01-10 17:12:46_Transform-Module_NoneType object is not iterable line::4384

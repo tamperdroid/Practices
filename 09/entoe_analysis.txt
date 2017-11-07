@@ -1,0 +1,69 @@
+
+Transmission domain
+
+Expansion and Dismantling Projects
+
+	Mandatory parameters
+	DocumentType
+	In_Domain
+	Out_Domain
+	TimeInterval or combination of PeriodStart and PeriodEnd
+
+	Optional parameters
+	BusinessType
+	DocStatus
+https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A65&processType=A16&outBiddingZone_Domain=10YDE-VE-------2&periodStart=201512312300&periodEnd=201612312300
+
+https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A90&in_Domain=10YCZ-CEPS-----N&out_Domain=10YSK-SEPS-----K&periodStart=201512312300&periodEnd=201612312300
+
+
+https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A90&in_Domain=10YDE-VE-------2
+&out_Domain=10YDOM-CZ-DE-SKK&TimeInterval=2015-12-31T23:00Z/2016-12-31T23:00Z
+
+
+from xlrd import open_workbook
+
+wb = open_workbook('Book2.xls')
+values = []
+for s in wb.sheets():
+    #print 'Sheet:',s.name
+    for row in range(1, s.nrows):
+        col_names = s.row(0)
+        col_value = []
+        for name, col in zip(col_names, range(s.ncols)):
+            value  = (s.cell(row,col).value)
+            try : value = str(int(value))
+            except : pass
+            col_value.append((name.value, value))
+        values.append(col_value)
+print values
+
+import xlrd
+
+
+current_row = 0
+sheet_num = 1
+input_total = 0
+output_total = 0
+
+# path to the file you want to extract data from
+src = r'c:\temp\excel sheet.xls'
+
+book = xlrd.open_workbook(src)
+
+# select the sheet that the data resids in
+work_sheet = book.sheet_by_index(sheet_num)
+
+# get the total number of rows
+num_rows = work_sheet.nrows - 1
+
+while current_row < num_rows:
+    row_header = work_sheet.cell_value(current_row, 4)
+
+    if row_header == 'output':
+        output_total += work_sheet.cell_value(current_row, 5)
+    elif row_header == 'input':
+        input_total += work_sheet.cell_value(current_row, 5)
+
+print output_total
+print input_total
