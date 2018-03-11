@@ -1,6 +1,0 @@
-1	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A63&in_Domain=10YDE-VE-------2&out_Domain=10Y1001A1001A796&periodStart=201701012300&periodEnd=201701242300
-2	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A63&in_Domain=10YDE-VE-------2&out_Domain=10YDOM-1001A082L&periodStart=201701012300&periodEnd=201701242300
-3	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A63&in_Domain=10YDE-RWENET---I&out_Domain=10YAT-APG------L&periodStart=201701012300&periodEnd=201701242300
-4	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A63&in_Domain=10Y1001A1001A796&out_Domain=10YDE-VE-------2&periodStart=201701012300&periodEnd=201701242300
-5	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A63&in_Domain=10YDOM-1001A082L&out_Domain=10YDE-VE-------2&periodStart=201701012300&periodEnd=201701242300
-6	https://transparency.entsoe.eu/api?securityToken=5cd9c738-3b32-4b95-86e9-f9c8b2cd3bb6&documentType=A63&in_Domain=10YDE-EON------1&out_Domain=10YAT-APG------L&periodStart=201701012300&periodEnd=201701242300
